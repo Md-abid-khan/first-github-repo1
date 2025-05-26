@@ -1,0 +1,25 @@
+ .border{
+        border: 2px solid red;
+        /* display: block; */
+        /* display: contents; */
+        display: inline-block;
+        background-color: blue;
+        font-size: 25px; 
+    }
+    .America{
+        color: rgb(73, 245, 5);
+    }
+    header{
+        color: #5602fd;
+    }
+    header{
+    background-image: url("../download.webp");  background-repeat: no-repeat;
+    height: 300px; width: 300px; background-position:unset;
+}
+div{
+    border: 20px solid orange; border-radius: 20px; box-shadow: 20px 10px 50px blue;
+    padding:5%; margin: 5px; text-align: center; font-family: fantasy; background-image: url("../download.webp"); background-position:center; background-repeat:no-repeat;
+}
+#boro{
+     font-size: 30px; 
+}
